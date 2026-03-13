@@ -1,6 +1,0 @@
-Monica
-
-sql c++
-
-dbx
-
