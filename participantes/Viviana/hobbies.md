@@ -1,0 +1,1 @@
+patinar, gym, consentir mis gatos
